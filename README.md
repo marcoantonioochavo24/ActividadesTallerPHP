@@ -1,7 +1,6 @@
 # Actividades PHP 
 
-Este repositorio contiene las actividades realizadas en clase de Desarrollo Web en Entorno Cliente (DWEC), centradas en el uso básico de PHP.  
-Cada actividad está hecha según los ejercicios propuestos en los apuntes del profesor y con ejemplos explicados paso a paso.
+Este repositorio contiene las actividades realizadas en clase de Desarrollo Web en Entorno Cliente (DWEC), centradas en el uso básico de PHP.
 
 ## Autor 
 
